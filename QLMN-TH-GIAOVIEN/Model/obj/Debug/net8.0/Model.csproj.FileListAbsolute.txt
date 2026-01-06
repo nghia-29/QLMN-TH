@@ -1,0 +1,12 @@
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Nghĩa\source\repos\QLMN-TH-GIAOVIEN\Model\obj\Debug\net8.0\ref\Model.dll
