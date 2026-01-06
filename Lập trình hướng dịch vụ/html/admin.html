@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Quản Trị Hệ Thống</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="../css/admin.css">
+
+    <script src="../angular/angular.min.js"></script>
+</head>
+
+<body>
+    <div class="khungbao">
+
+        <aside class="thanhben">
+            <div class="dauthanhben">
+                <i class="fa-solid fa-school bieutuonglogo"></i>
+                <span>Mầm Non Sao Mai</span>
+            </div>
+
+            <ul class="menuthanhben">
+                <li class="kichhoat">
+                    <a href="admin.html"><i class="fa-solid fa-chart-pie"></i> Tổng quan</a>
+                </li>
+                <li>
+                    <a href="quanlygiaovien.html"><i class="fa-solid fa-chalkboard-user"></i> Quản lý giáo viên</a>
+                </li>
+                <li>
+                    <a href="quanlyhocphi.html"><i class="fa-solid fa-money-check-dollar"></i> Quản lý học phí</a>
+                </li>
+                <li>
+                    <a href="quanlyphancong.html"><i class="fa-solid fa-clipboard-list"></i> Quản lý phân công</a>
+                </li>
+                <li>
+                    <a href="quanlythoikhoabieu.html"><i class="fa-solid fa-calendar-days"></i> Quản lý TKB</a>
+                </li>
+                <li>
+                    <a href="quanlytaikhoan.html"><i class="fa-solid fa-users-gear"></i> Quản lý tài khoản</a>
+                </li>
+
+                <li class="mucdangxuat">
+                    <a href="#" onclick="dangXuat()">
+                        <i class="fa-solid fa-right-from-bracket"></i> Đăng xuất
+                    </a>
+                </li>
+            </ul>
+        </aside>
+
+        <main class="noidungchinh">
+
+            <header class="dautrang">
+                <div class="tieudetrang">
+                    <h2>TỔNG QUAN</h2>
+                    <p>Hệ thống quản lý trường mầm non</p>
+                </div>
+                <div class="benphaidautrang">
+                    <div class="hopthongtin">
+                        <span>Xin chào, <span id="hienThiTen" class="tennguoidung">...</span></span>
+                        <span class="vaitro">
+                            <i class="fa-solid fa-shield-halved"></i> Admin
+                        </span>
+                    </div>
+                </div>
+            </header>
+
+            <div class="khuvucthongke">
+
+                <div class="thethongke xanhlam">
+                    <div class="noidungthe">
+                        <h3>TỔNG GIÁO VIÊN</h3>
+                        <p>32</p>
+                    </div>
+                    <div class="bieutuongthe">
+                        <i class="fa-solid fa-chalkboard-user"></i>
+                    </div>
+                </div>
+
+                <div class="thethongke xanhla">
+                    <div class="noidungthe">
+                        <h3>TỔNG HỌC SINH</h3>
+                        <p>150</p>
+                    </div>
+                    <div class="bieutuongthe">
+                        <i class="fa-solid fa-child"></i>
+                    </div>
+                </div>
+
+                <div class="thethongke maucam">
+                    <div class="noidungthe">
+                        <h3>DOANH THU THÁNG</h3>
+                        <p>50.000.000đ</p>
+                    </div>
+                    <div class="bieutuongthe">
+                        <i class="fa-solid fa-coins"></i>
+                    </div>
+                </div>
+
+                <div class="thethongke mautim">
+                    <div class="noidungthe">
+                        <h3>LỚP HỌC</h3>
+                        <p>8</p>
+                    </div>
+                    <div class="bieutuongthe">
+                        <i class="fa-solid fa-school"></i>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+    </div>
+
+    <script src="../js/admin.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Quản Lý Phân Công</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../css/admin.css">
+    <script src="../angular/angular.min.js"></script>
+</head>
+
+<body ng-app="UngDungQuanLy" ng-controller="PhanCongController">
+    <div class="khungbao">
+
+        <aside class="thanhben">
+            <div class="dauthanhben">
+                <i class="fa-solid fa-school bieutuonglogo"></i>
+                <span>Mầm Non Sao Mai</span>
+            </div>
+            <ul class="menuthanhben">
+                <li><a href="admin.html"><i class="fa-solid fa-chart-pie"></i> Tổng quan</a></li>
+                <li><a href="quanlygiaovien.html"><i class="fa-solid fa-chalkboard-user"></i> Quản lý giáo viên</a></li>
+                <li><a href="quanlyhocphi.html"><i class="fa-solid fa-money-check-dollar"></i> Quản lý học phí</a></li>
+                <li class="kichhoat"><a href="quanlyphancong.html"><i class="fa-solid fa-clipboard-list"></i> Quản lý
+                        phân công</a></li>
+                <li><a href="quanlythoikhoabieu.html"><i class="fa-solid fa-calendar-days"></i> Quản lý TKB</a></li>
+                <li><a href="quanlytaikhoan.html"><i class="fa-solid fa-users-gear"></i> Quản lý tài khoản</a></li>
+                <li class="mucdangxuat"><a href="#" onclick="dangXuat()"><i class="fa-solid fa-right-from-bracket"></i>
+                        Đăng xuất</a></li>
+            </ul>
+        </aside>
+
+        <main class="noidungchinh">
+            <header class="dautrang">
+                <div class="tieudetrang">
+                    <h2>QUẢN LÝ PHÂN CÔNG</h2>
+                    <p>Phân công giảng dạy (Lớp - Môn - GV - HS)</p>
+                </div>
+            </header>
+
+            <div class="khungnhaplieu">
+                <h3 class="tieudekhung">Thông Tin Phân Công</h3>
+                <div class="luoihang">
+                    <div class="nhaplieu">
+                        <label>Mã Phân Công (*)</label>
+                        <input type="text" ng-model="pc.MaPhanCong" placeholder="VD: PC01" ng-disabled="cheDoSua">
+                    </div>
+                    <div class="nhaplieu">
+                        <label>Mã Lớp</label>
+                        <input type="text" ng-model="pc.MaLop" placeholder="VD: MAM01">
+                    </div>
+                    <div class="nhaplieu">
+                        <label>Mã Môn Học</label>
+                        <input type="text" ng-model="pc.MaMonHoc" placeholder="VD: MON01">
+                    </div>
+                    <div class="nhaplieu">
+                        <label>Mã Giáo Viên</label>
+                        <input type="text" ng-model="pc.MaGiaoVien" placeholder="VD: GV01">
+                    </div>
+                    <div class="nhaplieu">
+                        <label>Mã Học Sinh</label>
+                        <input type="text" ng-model="pc.MaHocSinh" placeholder="VD: HS01">
+                    </div>
+                    <div class="nhaplieu">
+                        <label>Năm Học</label>
+                        <input type="text" ng-model="pc.NamHoc" placeholder="VD: 2023-2024">
+                    </div>
+                    <div class="nhaplieu">
+                        <label>Học Kỳ</label>
+                        <input type="text" ng-model="pc.HocKy" placeholder="VD: 1">
+                    </div>
+                </div>
+
+                <div class="daynutbam">
+                    <button class="nutbam nutthem" ng-click="themMoi()" ng-if="!cheDoSua"><i
+                            class="fa-solid fa-plus"></i> Thêm mới</button>
+                    <button class="nutbam nutsua" ng-click="capNhat()" ng-if="cheDoSua"><i class="fa-solid fa-save"></i>
+                        Cập nhật</button>
+                    <button class="nutbam nutxoa" ng-click="xoa()" ng-if="cheDoSua"><i class="fa-solid fa-trash"></i>
+                        Xóa</button>
+                    <button class="nutbam nutlammoi" ng-click="lamMoi()"><i class="fa-solid fa-rotate-right"></i> Làm
+                        mới</button>
+                </div>
+            </div>
+
+            <div class="banghienthi">
+                <table class="bangdulieu">
+                    <thead>
+                        <tr>
+                            <th>STT</th>
+                            <th>Mã PC</th>
+                            <th>Lớp</th>
+                            <th>Môn Học</th>
+                            <th>Giáo Viên</th>
+                            <th>Học Sinh</th>
+                            <th>Năm Học</th>
+                            <th>Học Kỳ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="item in dsPhanCong" ng-click="chonDong(item)" class="dongdulieu">
+                            <td>{{$index + 1}}</td>
+                            <td>{{item.maPhanCong}}</td>
+                            <td style="font-weight:bold;">{{item.maLop}}</td>
+                            <td style="color:#0d6efd;">{{item.maMonHoc}}</td>
+                            <td>{{item.maGiaoVien}}</td>
+                            <td>{{item.maHocSinh}}</td>
+                            <td>{{item.namHoc}}</td>
+                            <td>{{item.hocKy}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+    <script src="../js/quanlyphancong.js"></script>
+    <script src="../js/admin.js"></script>
+</body>
+
+</html>
