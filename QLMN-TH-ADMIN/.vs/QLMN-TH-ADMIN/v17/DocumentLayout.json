@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\thoikhoabieudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\thoikhoabieudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\controllers\\thoikhoabieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\controllers\\thoikhoabieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\bll\\thoikhoabieubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|solutionrelative:bll\\thoikhoabieubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\phancongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\phancongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\hocphidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\hocphidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\bll\\hocphibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|solutionrelative:bll\\hocphibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\controllers\\phancongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\controllers\\phancongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\controllers\\hocphicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\controllers\\hocphicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\bll\\phancongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|solutionrelative:bll\\phancongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\giaoviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\giaoviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\controllers\\giaoviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\controllers\\giaoviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\bll\\giaovienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68BE19C-FF61-4E57-B4DE-208DAA24CFA1}|BLL\\BLL.csproj|solutionrelative:bll\\giaovienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\hososuckhoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\hososuckhoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\hocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\hocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28D40DC8-1587-47FF-B74C-CE71EEA8E580}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\model\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F86ADE-96EE-4BBB-981D-9F7085E4FC87}|Model\\Model.csproj|solutionrelative:model\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|c:\\users\\ngh\u0129a\\source\\repos\\qlmn-th-admin\\qlmn-th-admin\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220006B1-F762-49CA-99E4-BF1581BACFC3}|QLMN-TH-ADMIN\\QLMN-TH-ADMIN.csproj|solutionrelative:qlmn-th-admin\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T03:48:50.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T01:58:54.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThoiKhoaBieuController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\ThoiKhoaBieuController.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Controllers\\ThoiKhoaBieuController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\ThoiKhoaBieuController.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Controllers\\ThoiKhoaBieuController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:44:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThoiKhoaBieuBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\ThoiKhoaBieuBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ThoiKhoaBieuBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\ThoiKhoaBieuBLL.cs",
+              "RelativeToolTip": "BLL\\ThoiKhoaBieuBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:40:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThoiKhoaBieuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\ThoiKhoaBieuDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ThoiKhoaBieuDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\ThoiKhoaBieuDAL.cs",
+              "RelativeToolTip": "DAL\\ThoiKhoaBieuDAL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:40:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HocPhiController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\HocPhiController.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Controllers\\HocPhiController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\HocPhiController.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Controllers\\HocPhiController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:38:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HocPhiBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\HocPhiBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HocPhiBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\HocPhiBLL.cs",
+              "RelativeToolTip": "BLL\\HocPhiBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:37:56.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HocPhiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\HocPhiDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HocPhiDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\HocPhiDAL.cs",
+              "RelativeToolTip": "DAL\\HocPhiDAL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:37:18.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhanCongController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\PhanCongController.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Controllers\\PhanCongController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\PhanCongController.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Controllers\\PhanCongController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:15:39.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhanCongDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\PhanCongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhanCongDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\PhanCongDAL.cs",
+              "RelativeToolTip": "DAL\\PhanCongDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwGoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:13:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhanCongBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\PhanCongBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PhanCongBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\PhanCongBLL.cs",
+              "RelativeToolTip": "BLL\\PhanCongBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:12:29.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GiaoVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\GiaoVienController.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Controllers\\GiaoVienController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\GiaoVienController.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Controllers\\GiaoVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T03:46:45.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Program.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Program.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Program.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:10:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:08:47.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "QLMN-TH-ADMIN\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\QLMN-TH-ADMIN\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "QLMN-TH-ADMIN\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:05:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\DatabaseConnect.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseConnect.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\DatabaseConnect.cs",
+              "RelativeToolTip": "DAL\\DatabaseConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:01:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:45:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaiKhoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\TaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\TaiKhoanDAL.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:45:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "Model\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\Dangnhap.cs",
+              "RelativeToolTip": "Model\\Dangnhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:42:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThongBao.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\ThongBao.cs",
+              "RelativeDocumentMoniker": "Model\\ThongBao.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\ThongBao.cs",
+              "RelativeToolTip": "Model\\ThongBao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:37:19.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoaiTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\LoaiTaiKhoan.cs",
+              "RelativeDocumentMoniker": "Model\\LoaiTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\LoaiTaiKhoan.cs",
+              "RelativeToolTip": "Model\\LoaiTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:36:10.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HosoSucKhoe.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\HosoSucKhoe.cs",
+              "RelativeDocumentMoniker": "Model\\HosoSucKhoe.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\HosoSucKhoe.cs",
+              "RelativeToolTip": "Model\\HosoSucKhoe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:35:57.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiemDanh.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\DiemDanh.cs",
+              "RelativeDocumentMoniker": "Model\\DiemDanh.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\DiemDanh.cs",
+              "RelativeToolTip": "Model\\DiemDanh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:34:42.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GiaoVien.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "Model\\GiaoVien.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\GiaoVien.cs",
+              "RelativeToolTip": "Model\\GiaoVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:34:36.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Model\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\HocSinh.cs",
+              "RelativeToolTip": "Model\\HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:31:36.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HocPhi.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\HocPhi.cs",
+              "RelativeDocumentMoniker": "Model\\HocPhi.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\HocPhi.cs",
+              "RelativeToolTip": "Model\\HocPhi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:29:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\PhanCong.cs",
+              "RelativeDocumentMoniker": "Model\\PhanCong.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\PhanCong.cs",
+              "RelativeToolTip": "Model\\PhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:29:47.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Model\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\TaiKhoan.cs",
+              "RelativeToolTip": "Model\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:29:47.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThoiKhoaBieu.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\ThoiKhoaBieu.cs",
+              "RelativeDocumentMoniker": "Model\\ThoiKhoaBieu.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\ThoiKhoaBieu.cs",
+              "RelativeToolTip": "Model\\ThoiKhoaBieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:29:45.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BangDiem.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\BangDiem.cs",
+              "RelativeDocumentMoniker": "Model\\BangDiem.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\Model\\BangDiem.cs",
+              "RelativeToolTip": "Model\\BangDiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:23:01.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GiaoVienBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\GiaoVienBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\GiaoVienBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\BLL\\GiaoVienBLL.cs",
+              "RelativeToolTip": "BLL\\GiaoVienBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:20:46.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GiaoVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\GiaoVienDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\GiaoVienDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-ADMIN\\DAL\\GiaoVienDAL.cs",
+              "RelativeToolTip": "DAL\\GiaoVienDAL.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:20:29.716Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
