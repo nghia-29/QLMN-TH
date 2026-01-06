@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9256CE-8020-4958-A3EC-42B6CA09E604}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\dal\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9256CE-8020-4958-A3EC-42B6CA09E604}|DAL\\DAL.csproj|solutionrelative:dal\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F2DAA2-FF9B-4029-8BDD-C80CB4E0B48A}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F2DAA2-FF9B-4029-8BDD-C80CB4E0B48A}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9256CE-8020-4958-A3EC-42B6CA09E604}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9256CE-8020-4958-A3EC-42B6CA09E604}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\ThongBaoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\BLL\\ThongBaoBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\ThongBaoDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\DiemDanhController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\BLL\\DiemDanhBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\DiemDanhDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\Model\\DiemDanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\HocSinhController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9256CE-8020-4958-A3EC-42B6CA09E604}|DAL\\DAL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2D9256CE-8020-4958-A3EC-42B6CA09E604}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F2DAA2-FF9B-4029-8BDD-C80CB4E0B48A}|BLL\\BLL.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\bll\\bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F4F2DAA2-FF9B-4029-8BDD-C80CB4E0B48A}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\hocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\hocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\hososuckhoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\hososuckhoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\model\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4CF1AF-903D-477B-8692-23318EF78205}|Model\\Model.csproj|solutionrelative:model\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|c:\\users\\ngh\u0129a\\source\\repos\\getway\\getway\\getway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C321CA9D-39A1-4287-A534-A24D50903AE4}|GETWAY\\GETWAY.csproj|solutionrelative:getway\\getway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GETWAY\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GETWAY\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:36:08.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "Model\\Dangnhap.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\Dangnhap.cs",
+              "RelativeToolTip": "Model\\Dangnhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:00:03.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThongBaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\ThongBaoController.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\ThongBaoController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\ThongBaoController.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\ThongBaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThongBaoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\BLL\\ThongBaoBLL.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\BLL\\ThongBaoBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\BLL\\ThongBaoBLL.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\BLL\\ThongBaoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QLMN-TH-GIAOVIEN.csproj",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN.csproj",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN.csproj",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T05:15:35.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\DAL.csproj",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T05:15:35.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThongBaoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\ThongBaoDAL.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\DAL\\ThongBaoDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\ThongBaoDAL.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\DAL\\ThongBaoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiemDanhController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\DiemDanhController.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\DiemDanhController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\DiemDanhController.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\DiemDanhController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiemDanhBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\BLL\\DiemDanhBLL.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\BLL\\DiemDanhBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\BLL\\DiemDanhBLL.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\BLL\\DiemDanhBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiemDanhDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\DiemDanhDAL.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\DAL\\DiemDanhDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\DAL\\DiemDanhDAL.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\DAL\\DiemDanhDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DiemDanh.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\Model\\DiemDanh.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\Model\\DiemDanh.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\Model\\DiemDanh.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\Model\\DiemDanh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:35.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HocSinhController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\HocSinhController.cs",
+              "RelativeDocumentMoniker": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\HocSinhController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\HocSinhController.cs",
+              "RelativeToolTip": "..\\QLMN-TH-GIAOVIEN\\QLMN-TH-GIAOVIEN\\Controllers\\HocSinhController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:15:34.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T04:04:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T04:04:44.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T04:04:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-02T04:00:10.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GETWAY\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GETWAY\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T03:47:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "GETWAY\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "GETWAY\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:42:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:41:55.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\DAL\\TaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanDAL.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\DAL\\TaiKhoanDAL.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:41:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThongBao.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\ThongBao.cs",
+              "RelativeDocumentMoniker": "Model\\ThongBao.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\ThongBao.cs",
+              "RelativeToolTip": "Model\\ThongBao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:40:01.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ThoiKhoaBieu.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\ThoiKhoaBieu.cs",
+              "RelativeDocumentMoniker": "Model\\ThoiKhoaBieu.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\ThoiKhoaBieu.cs",
+              "RelativeToolTip": "Model\\ThoiKhoaBieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:39:54.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\PhanCong.cs",
+              "RelativeDocumentMoniker": "Model\\PhanCong.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\PhanCong.cs",
+              "RelativeToolTip": "Model\\PhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:39:37.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoaiTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\LoaiTaiKhoan.cs",
+              "RelativeDocumentMoniker": "Model\\LoaiTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\LoaiTaiKhoan.cs",
+              "RelativeToolTip": "Model\\LoaiTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:39:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HosoSucKhoe.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\HosoSucKhoe.cs",
+              "RelativeDocumentMoniker": "Model\\HosoSucKhoe.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\HosoSucKhoe.cs",
+              "RelativeToolTip": "Model\\HosoSucKhoe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:39:21.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Model\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\HocSinh.cs",
+              "RelativeToolTip": "Model\\HocSinh.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:39:09.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HocPhi.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\HocPhi.cs",
+              "RelativeDocumentMoniker": "Model\\HocPhi.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\HocPhi.cs",
+              "RelativeToolTip": "Model\\HocPhi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:39:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GiaoVien.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "Model\\GiaoVien.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\GiaoVien.cs",
+              "RelativeToolTip": "Model\\GiaoVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:38:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DiemDanh.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\DiemDanh.cs",
+              "RelativeDocumentMoniker": "Model\\DiemDanh.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\DiemDanh.cs",
+              "RelativeToolTip": "Model\\DiemDanh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:38:36.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Model\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\TaiKhoan.cs",
+              "RelativeToolTip": "Model\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:38:22.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\ocelot.json",
+              "RelativeDocumentMoniker": "GETWAY\\ocelot.json",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\ocelot.json",
+              "RelativeToolTip": "GETWAY\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T03:24:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GETWAY\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\appsettings.Development.json",
+              "RelativeToolTip": "GETWAY\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T03:21:22.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\appsettings.json",
+              "RelativeDocumentMoniker": "GETWAY\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\appsettings.json",
+              "RelativeToolTip": "GETWAY\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T03:20:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GETWAY.csproj",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\GETWAY.csproj",
+              "RelativeDocumentMoniker": "GETWAY\\GETWAY.csproj",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\GETWAY.csproj",
+              "RelativeToolTip": "GETWAY\\GETWAY.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T01:46:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BangDiem.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\BangDiem.cs",
+              "RelativeDocumentMoniker": "Model\\BangDiem.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\Model\\BangDiem.cs",
+              "RelativeToolTip": "Model\\BangDiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:29:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\DAL\\DatabaseConnect.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseConnect.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\DAL\\DatabaseConnect.cs",
+              "RelativeToolTip": "DAL\\DatabaseConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:28:43.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Program.cs",
+              "RelativeDocumentMoniker": "GETWAY\\Program.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\Program.cs",
+              "RelativeToolTip": "GETWAY\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:58:54.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GETWAY\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Ngh\u0129a\\source\\repos\\GETWAY\\GETWAY\\WeatherForecast.cs",
+              "RelativeToolTip": "GETWAY\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:58:50.848Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
