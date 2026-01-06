@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "QLMN-TH-USER\\QLMN-TH-USER.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
