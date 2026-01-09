@@ -49,16 +49,12 @@
       } 
       else if (role === "GV" || role === "GIAOVIEN") {
         alert("✅ Khớp lệnh GV -> Vào trang Giáo viên");
-        $window.location.href = 'diemdanh.html';
+        $window.location.href = 'giaovien.html';
       } 
-      else if (role === "PH") {
-        alert("✅ Xin chào PHỤ HUYNH -> Vào xem Hồ sơ chi tiết");
-        // Chuyển đến trang dành cho phụ huynh (bạn kiểm tra lại tên file html nhé)
-        $window.location.href = 'hosochitiet.html'; 
-      }
       else {
-        alert("⛔ Lỗi: Quyền '" + role + "' không tồn tại trong hệ thống!");
-        // Không chuyển trang hoặc quay về trang login
+        // Nếu vẫn vào đây, nghĩa là role không phải ADMIN cũng không phải GV
+        alert("❌ Không khớp quyền nào cả -> Đẩy về User");
+        $window.location.href = 'user.html';
       }
     }
 
